@@ -1,0 +1,23 @@
+h1 {
+    color: aquamarine;
+    text-align: center;
+    background: black;
+}
+body {
+    background: linear-gradient(to right,  green, yellow 50%, pink);
+    text-align: justify;
+    
+}
+
+h2{ 
+    background: linear-gradient(blue, white,pink); 
+
+}
+li{
+    background-color: lightblue;
+}
+
+h3 { 
+    background: linear-gradient(pink, yellow); 
+    text-align: center;
+}
